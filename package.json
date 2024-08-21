@@ -14,8 +14,7 @@
         "database"
     ],
     "files": [
-        "/Assets/Plugins/sqlite3*",
-        "/Assets/Scripts/SQLiteUnity.cs",
-        "/Assets/Scripts/SQLiteUnityUtility.cs"
+        "/Assets/Plugins/**/*",
+        "/Assets/Scripts/SQLite/**/*"
     ]
 }

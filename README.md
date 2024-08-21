@@ -38,7 +38,7 @@
 - `Assets/Scripts/`
     - `SQLiteUnity.cs`
         - 必須部分です。
-    - `SQLiteUnityUtility.cs`
+    - `SQLiteUtility.cs`
         - 拡張ユーティリティクラスです。必要に応じてお使いください。
         - トランザクションでも擬似的なバインドが使えるようになっています。
     - `Startup.cs`
